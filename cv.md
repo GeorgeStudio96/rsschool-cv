@@ -18,9 +18,6 @@ At the moment I'm a Senior Webflow Developer and I managed to work with many big
 However, any low-code platform is used only for creating MVPs and is not suitable for scaling when the business needs it and has its own limitations in technology. That is why I decided to find my new way exactly in JavaScript development. 
 
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 ## My skills: 
 
 * Webflow, Figma
@@ -77,7 +74,9 @@ Total experience as a developer, more than 3.5 years
 Due to the NDA contract I am not allowed to show many projects, however, I can show some. 
 
 https://discovery.yachty.co
+
 https://www.rentateam.ru/en
+
 https://whitelabelpr.com
 
 
